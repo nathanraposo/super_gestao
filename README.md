@@ -6,6 +6,16 @@ Site desenvolvido através do curso
 Desenvolvimento Web Avançado 2021 com PHP, 
 Laravel e Vue.JS Do Jorge Sant Ana</p>
 
+<p align="left">
+Ladding Page com Área Administrativa.<br>
+Cadastros:<br>
+    - Cliente <br>
+    - Fornecedor <br>
+    - Produto <br>
+    - Pedidos <br>
+
+</p>
+
 ## Recursos abordados
 <p align="center">
     - Blade
